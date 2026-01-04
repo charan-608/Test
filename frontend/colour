@@ -8,11 +8,11 @@ body {
 header {
     background-color: #24292e;
     color: white;
-    padding: 20px;
+    padding: 27px;
 }
 
 main {
-    padding: 40px;
+    padding: 43px;
 }
 
 .card {
@@ -28,7 +28,7 @@ button {
     padding: 10px 20px;
     border: none;
     background-color: #2ea44f;
-    color: white;
+    color: grey;
     font-size: 16px;
     border-radius: 5px;
     cursor: pointer;
@@ -40,6 +40,6 @@ button:hover {
 
 footer {
     background-color: #eaeaea;
-    padding: 10px;
+    padding: 15px;
     margin-top: 40px;
 }
