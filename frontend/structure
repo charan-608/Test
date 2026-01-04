@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Branch Learning</title>
+    <link rel="stylesheet" href="h.css">
+</head>
+<body>
+
+    <header>
+        <h1>Learning GitHub Branches</h1>
+        <p>A simple webpage for practice</p>
+    </header>
+
+    <main>
+        <section class="card">
+            <h2>Main Branch</h2>
+            <p>
+                This content is from the <strong>main branch</strong>.
+                Try changing this text in another branch.
+            </p>
+        </section>
+
+        <button>Click Me</button>
+    </main>
+
+    <footer>
+        <p>© 2026 GitHub Practice Project</p>
+    </footer>
+
+</body>
+</html>
