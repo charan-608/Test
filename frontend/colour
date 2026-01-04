@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 2;
     font-family: Arial, sans-serif;
     background-color: #f4f6f8;
     text-align: center;
@@ -30,7 +30,7 @@ button {
     background-color: #2ea44f;
     color: grey;
     font-size: 16px;
-    border-radius: 5px;
+    border-radius: 7px;
     cursor: pointer;
 }
 
